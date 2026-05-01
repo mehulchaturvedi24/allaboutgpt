@@ -4,3 +4,26 @@ theme: minima
 baseurl: "/allaboutgpt"
 url: "https://mehulchaturvedi24.github.io"
 markdown: kramdown
+
+# Navigation header links
+header_pages:
+  - index.md
+  - about.md
+  - resources.md
+  - contact.md
+
+# Minima theme settings
+minima:
+  skin: classic
+
+# Show excerpts on homepage
+show_excerpts: true
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
