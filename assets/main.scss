@@ -1,0 +1,107 @@
+---
+---
+
+@import "minima";
+
+/* =====================
+   All About GPT - Custom Styles
+   ===================== */
+
+/* Site header */
+.site-header {
+  border-top: 4px solid #2c7be5;
+  background-color: #ffffff;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #2c7be5 !important;
+  letter-spacing: -0.5px;
+}
+
+.site-title:hover {
+  color: #1a5dc8 !important;
+  text-decoration: none;
+}
+
+/* Navigation links */
+.site-nav .page-link {
+  color: #333333;
+  font-weight: 500;
+}
+
+.site-nav .page-link:hover {
+  color: #2c7be5;
+}
+
+/* Post list on homepage */
+.post-list h3 a {
+  color: #2c7be5;
+  font-weight: 600;
+}
+
+.post-list h3 a:hover {
+  color: #1a5dc8;
+  text-decoration: underline;
+}
+
+.post-meta {
+  color: #888888;
+  font-size: 0.85rem;
+}
+
+/* Post content */
+.post-content h2 {
+  border-bottom: 2px solid #eeeeee;
+  padding-bottom: 6px;
+  margin-top: 2rem;
+}
+
+.post-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.post-content table th,
+.post-content table td {
+  border: 1px solid #dddddd;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.post-content table th {
+  background-color: #f0f4ff;
+  font-weight: 600;
+}
+
+.post-content table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Code blocks */
+.highlight {
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 2px solid #2c7be5;
+  background-color: #f8f9fa;
+}
+
+/* Buttons and links */
+a {
+  color: #2c7be5;
+}
+
+a:hover {
+  color: #1a5dc8;
+}
+
+/* Wrapper max width */
+.wrapper {
+  max-width: 860px;
+}
