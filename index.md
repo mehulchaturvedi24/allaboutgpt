@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: All About GPT
 ---
 
@@ -9,27 +9,13 @@ Your go-to resource for the latest GPT updates, tutorials, prompting guides, and
 
 ---
 
-## Navigate
+## What You Will Find Here
 
-- [About](about.md)
-- [Resources](resources.md)
-
----
-
-## Featured Topics
-
-- GPT news and updates
-- Tutorials and explainers
-- Prompting guides and libraries
-- AI tools and websites
-- Learning references
+- **News** — Latest GPT model releases and OpenAI announcements
+- **Tutorials** — Step-by-step guides for beginners and advanced users
+- **Prompting** — Practical techniques to get better results from GPT
+- **Resources** — Curated links to tools, communities, and research
 
 ---
 
-## Latest Post
-
-- [Welcome to All About GPT](_posts/2026-05-01-welcome-to-all-about-gpt.md) — May 1, 2026
-
----
-
-*Built with Jekyll and GitHub Pages.*
+## Latest Posts
